@@ -17,9 +17,7 @@ This is a simple command-line To Do List application developed using Python.
 
 ### How to Run
 
-```bash
 python todolist.py
-```
 
 ### Author
 Kalyani Nayini
